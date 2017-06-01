@@ -1,0 +1,149 @@
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\ApplicationInsights.config
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\csc.exe
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\csc.exe.config
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\csc.rsp
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\csi.exe
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\csi.rsp
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\System.AppContext.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\vbc.exe
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\vbc.exe.config
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\vbc.rsp
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\WebBlog_teste.dll.config
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\WebBlog_teste.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\WebBlog_teste.pdb
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Antlr3.Runtime.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.Web.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Newtonsoft.Json.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Helpers.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Mvc.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Optimization.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Razor.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\WebGrease.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Helpers.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Mvc.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Optimization.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.Razor.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Newtonsoft.Json.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.Web.xml
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.dll
+C:\Users\Pedro\documents\visual studio 2017\Projects\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.pdb
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\ApplicationInsights.config
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\csc.exe
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\csc.exe.config
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\csc.rsp
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\csi.exe
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\csi.rsp
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\System.AppContext.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\vbc.exe
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\vbc.exe.config
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\vbc.rsp
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\WebBlog_teste.dll.config
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\WebBlog_teste.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\WebBlog_teste.pdb
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Antlr3.Runtime.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.Web.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Newtonsoft.Json.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Helpers.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Mvc.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Optimization.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Razor.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\WebGrease.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Helpers.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Mvc.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Optimization.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.Razor.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Antlr3.Runtime.pdb
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Newtonsoft.Json.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\Microsoft.AI.Web.xml
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.csprojResolveAssemblyReference.cache
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.dll
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.pdb
+C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\WebActivatorEx.dll

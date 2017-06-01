@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Meu Aplicativo ASP.NET</title>
+    @Styles.Render("~/Content/Site.css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="backtop-pR">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="redes-pR">
+                        <figure><a href="https://www.facebook.com/graodegente"><img src="~/imagem/facebook.png" alt="Facebook"></a></figure>
+                        <figure><a href="https://www.instagram.com/graodegente/"><img src="~/imagem/instagram.png" alt="Instagram"></a></figure>
+                        <figure><a href="https://www.twitter.com/graodegente"><img src="~/imagem/twitter.png" alt="Twitter"></a></figure>
+                        <figure><a href="https://www.plus.google.com/+graodegentebr/about"><img src="~/imagem/google.png" alt="Google Plus"></a></figure>
+                        <figure><a href="https://www.pinterest.com/graodegente"><img src="~/imagem/pinterest.png" alt="Pinterest"></a></figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <div class="logo-pR">
+                    <figure><img src="~/imagem/logo.png" alt="Grão de Gente"></figure>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="anuncio-pR">
+                    <figure><img src="~/imagem/anuncio.jpg" alt="Chegou a hora de brincar! Quarto Brincadeira na selva Grão de Gente"></figure>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        @Html.ActionLink(" ", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        <nav>
+            <div class="menu-pR">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="navbar-collapse collapse">
+                                <ul class="nav navbar-nav">
+                                    <li class="dropdown-G">
+                                        <div class="menu-A"> @Html.ActionLink("Quartos de Bebê", "Index", "Home")</div>
+                                        <ul class="dropdown-content-G">
+                                            <li class="menu-A"><span>></span>  Quarto de Menina</li>
+                                            <li class="menu-A"><span>></span>  Quarto de Menino</li>
+                                            <li class="menu-A"><span>></span>  Tendências</li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-G">
+                                        <div class="menu-A">
+                                            @Html.ActionLink("Gravidez", "About", "Home")
+                                        </div>
+                                        <ul class="dropdown-content-G">
+                                            <li class="menu-A"><span>></span>  Amamentação</li>
+                                            <li class="menu-A"><span>></span>  Papo de Grávida</li>
+                                            <li class="menu-A"><span>></span>  Parto e Pós-Parto</li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-G">
+                                        <div class="menu-A">
+                                            @Html.ActionLink("Bebê", "Contact", "Home")
+                                        </div>
+                                        <ul class="dropdown-content-G">
+                                            <li class="menu-A"><span>></span>  Alimentação</li>
+                                            <li class="menu-A"><span>></span>  Comportamento</li>
+                                            <li class="menu-A"><span>></span>  Cuidados com a Saúde</li>
+                                            <li class="menu-A"><span>></span>  Diversão e Passeios</li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-G">
+                                        <div class="menu-A">
+                                            @Html.ActionLink("De mãe pra mãe", "Bebe", "Home")
+                                        </div>
+                                        <ul class="dropdown-content-G">
+                                            <li class="menu-A"><span>></span>  Dicas - de tudo um pouco!</li>
+                                            <li class="menu-A"><span>></span>  DIY - Faça Você Mesma</li>
+                                            <li class="menu-A"><span>></span>  Inspirações - Boas Histórias</li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-G">
+                                        <div class="menu-A">@Html.ActionLink("A Grão de Gente na mídia", "Bebe", "Home")</div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <main>
+    <div class="container body-content">
+        </div>
+            <div class="container">
+                    <div class="col-9">
+                        @RenderBody()
+                    </div>
+                <div class="row">
+                    <div class="col-3">
+                        <aside>
+                            <div class="aside-back">
+                                <h4>Mais Vistos</h4>
+                            </div>
+                            <ul>
+                                <li>
+                                    <figure><img src="../imagem/aside-1.jpg" alt="Aside" /></figure>
+                                    <p>Maternidade: Por que somos cruéis com as outras mulheres?</p>
+                                </li>
+                                <li>
+                                    <figure><img src="../imagem/aside-2.jpg" alt="Aside" /></figure>
+                                    <p>A quarentena pós-parto: atenção e cuidados especiais</p>
+                                </li>
+                                <li>
+                                    <figure><img src="../imagem/aside-3.jpg" alt="Aside" /></figure>
+                                    <p>A importância do pai na hora do parto</p>
+                                </li>
+                                <li>
+                                    <figure><img src="../imagem/aside-4.jpg" alt="Aside" /></figure>
+                                    <p>Como identificar os sinais do trabalho de parto e aliviar as dores</p>
+                                </li>
+                            </ul>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+    </main>
+    </div>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-4">
+                    <h3> Fale Conosco </h3>
+                    <div class="fale-pR">
+                        <p>
+                            Redação Blog Grão de Gente<br>
+                            Av. Ana Costa, 416, conj 21 <br>
+                            CEP 11060-002<br>
+                            Gonzaga - Santos SP<br>
+                            Fale com a nossa redação<br>
+                            E-mail: redacao@bloggraodegente.com.br
+                        </p>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <h3> Post's Recentes </h3>
+                    <div class="post-pR">
+                        <div class="post1">
+                            <div class="foto1">
+                                <figure> <img src="~/imagem/menina.jpg" alt="Menina"> </figure>
+                            </div>
+                            <div class="escrita1">
+                                <p> Exclusivo! Negra Li fala sobre carreira e a chegada do segundo filho </p>
+                            </div>
+                        </div>
+                        <div class="post2">
+                            <div class="foto2">
+                                <figure> <img src="~/imagem/bebe.jpg" alt="Bebê"> </figure>
+                            </div>
+                            <div class="escrita2">
+                                <p> Icterícia em recém-nascidos: causas e tratamento </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="atualizacoes-pR">
+                        <h3> Receba nossas atualizações </h3>
+                        <div class="att-pR">
+                            <p class="post2"> Registre-se e receba os artigos do Blog no seu e-mail. </p>
+                            <div class="email">
+                                <input type="email" placeholder="E-mail">
+                                <button type="submit">CADASTRAR</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
