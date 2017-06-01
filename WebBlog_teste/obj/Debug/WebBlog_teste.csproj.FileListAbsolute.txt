@@ -147,3 +147,4 @@ C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.cspro
 C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.dll
 C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\obj\Debug\WebBlog_teste.pdb
 C:\Users\Cauã\Desktop\WebBlog_teste\WebBlog_teste\bin\WebActivatorEx.dll
+C:\Users\caiod\Source\Repos\bloggraodegente\WebBlog_teste\obj\Debug\WebBlog_teste.csprojResolveAssemblyReference.cache
